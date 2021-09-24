@@ -37,19 +37,20 @@
   \ifdebate@hide%
     #1%
   \else%
-    {\color{red}#1}%
+    \textcolor{red}{[ #1 ]$\downarrow$}%
     \par
     {%
-      \addtolength\leftskip{6pt}\setlength\parskip{0pt}%
+      \sffamily\color{gray}%
+      \addtolength\leftskip{6pt}\setlength\parskip{0pt}\setlength\parindent{0pt}%
       \renewcommand*\debate@said{}%
-      #2\par%
+      #2\par\vspace{-\parskip}%
     }%
   \fi%
 }\makeatother
 
 \makeatletter\newcommand\say[2][author]{%
   \ifx\debate@said\empty\else\newline\fi
-  {\scshape #1}: #2
+  {\bfseries\scshape #1}: #2
   \renewcommand\debate@said{yes}
 }\makeatother
 
