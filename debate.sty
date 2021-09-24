@@ -24,6 +24,7 @@
 \ProvidesPackage{debate}[00.00.0000 0.0.0 Debates Between Reviewers]
 
 \RequirePackage{xcolor}
+\RequirePackage[most]{tcolorbox}
 
 \RequirePackage{xkeyval}
 \makeatletter
@@ -32,26 +33,20 @@
 \ProcessOptionsX\relax
 \makeatother
 
-\makeatletter\newcommand*\debate@said{}\makeatother
-\makeatletter\newcommand\debate[2]{%
+\makeatletter\newcommand\debate[2][Author]{%
   \ifdebate@hide%
     #1%
   \else%
-    \textcolor{red}{[ #1 ]$\downarrow$}%
-    \par
     {%
-      \sffamily\color{gray}%
-      \addtolength\leftskip{6pt}\setlength\parskip{0pt}\setlength\parindent{0pt}%
-      \renewcommand*\debate@said{}%
-      #2\par\vspace{-\parskip}%
+      \begin{tcolorbox}[frame hidden,sharp corners,enhanced,borderline west={1pt}{0pt}{red},boxsep=0pt,left=0pt,right=0pt,top=0pt,bottom=0pt,beforeafter skip balanced=0pt,standard jigsaw,opacityback=0]
+        \sffamily\color{gray}%
+        \raggedright%
+        \addtolength\leftskip{18pt}\setlength\parskip{0pt}\setlength\parindent{0pt}%
+        \textcolor{red}{\bfseries\scshape #1}: #2
+      \end{tcolorbox}
+      \vspace{-\parskip}
     }%
   \fi%
-}\makeatother
-
-\makeatletter\newcommand\say[2][author]{%
-  \ifx\debate@said\empty\else\newline\fi
-  {\bfseries\scshape #1}: #2
-  \renewcommand\debate@said{yes}
 }\makeatother
 
 \endinput
