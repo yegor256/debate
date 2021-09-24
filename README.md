@@ -12,10 +12,10 @@ and then use in the preamble:
 \documentclass{article}
 \usepackage{debate}
 \begin{document}
-I think apples are \debate{more}{
-  \say[jeff]{I don't think it's true!}
-  \say[anna]{It is indeed true!}
-} tasty than pears!
+I think apples are tastier
+  \debate[jeff]{I don't think it's true!}
+  \debate[anna]{It is indeed true!}
+than pears!
 \end{document}
 ```
 
