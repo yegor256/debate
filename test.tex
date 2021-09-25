@@ -21,16 +21,22 @@
 % SOFTWARE.
 
 \documentclass[twocolumn]{article}
+\usepackage[T1]{fontenc}
+\usepackage[tt=false,type1=true]{libertine}
 \usepackage{debate}
+\usepackage{multicol}
 \usepackage[showframe]{geometry}
 \begin{document}
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
 quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+\debate{One}
+\debate[Peter]{Two}
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
 
+\begin{multicols}{3}
 I think apples are tastier
 \debate[Jeff]{I don't think it's true!}
 \debate[Anna]{It is indeed true! I love pears and this obviously proves that they are tastier than apples!}
@@ -40,6 +46,7 @@ quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
 consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
 cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
 proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+\end{multicols}
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
 tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
