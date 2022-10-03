@@ -2,3 +2,4 @@ hard xkeyval
 hard xcolor
 hard tcolorbox
 hard pdfcol
+hard listings
