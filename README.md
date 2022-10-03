@@ -1,4 +1,5 @@
-[![make](https://github.com/yegor256/debate/actions/workflows/latexmk.yml/badge.svg)](https://github.com/yegor256/debate/actions/workflows/latexmk.yml)
+[![make](https://github.com/yegor256/debate/actions/workflows/l3build.yml/badge.svg)](https://github.com/yegor256/debate/actions/workflows/l3build.yml)
+[![CTAN](https://img.shields.io/ctan/v/debate)](https://ctan.org/pkg/debate)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/yegor256/debate/blob/master/LICENSE.txt)
 
 This LaTeX package helps you organize debates between a few reviewers
