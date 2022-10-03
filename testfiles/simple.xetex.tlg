@@ -1,387 +1,126 @@
 This is a generated file for the l3build validation system.
 Don't change this file in any respect.
-LaTeX Font Info:    Trying to load font information for T1+LinuxBiolinumT-TLF on input line ....
-(../T1LinuxBiolinumT-TLF.fdFile: T1LinuxBiolinumT-TLF.fd ....-..-.. (autoinst) Font definitions for T1/LinuxBiolinumT-TLF.
-)
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/m/n' will be
-(Font)              scaled to size 10.0pt on input line ....
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/n' will be
-(Font)              scaled to size 10.0pt on input line ....
-LaTeX Font Info:    Font shape `T1/LinuxBiolinumT-TLF/b/sc' will be
-(Font)              scaled to size 10.0pt on input line ....
-Underfull \hbox (badness 7273) in paragraph at lines 21--22
-[]\T1/LinuxLibertineT-TLF/m/n/10 I think ap-
-\hbox(6.87+2.36)x63.33409, glue set 4.17577
-.\hbox(0.0+0.0)x10.0
-.\T1/LinuxLibertineT-TLF/m/n/10 I
-.\glue 2.5 plus 1.24875 minus 0.83382
-.\T1/LinuxLibertineT-TLF/m/n/10 t
-.\T1/LinuxLibertineT-TLF/m/n/10 h
-.\T1/LinuxLibertineT-TLF/m/n/10 i
-.\T1/LinuxLibertineT-TLF/m/n/10 n
-.\T1/LinuxLibertineT-TLF/m/n/10 k
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 a
-.\T1/LinuxLibertineT-TLF/m/n/10 p
-.\discretionary
-.\T1/LinuxLibertineT-TLF/m/n/10 -
+LaTeX Font Info:    Trying to load font information for TU+LinuxBiolinumT-TLF on input line ....
+LaTeX Font Info:    No file TULinuxBiolinumT-TLF.fd. on input line ....
+LaTeX Font Warning: Font shape `TU/LinuxBiolinumT-TLF/m/n' undefined
+(Font)              using `TU/lmr/m/n' instead on input line ....
+LaTeX Font Warning: Font shape `TU/LinuxBiolinumT-TLF/b/n' undefined
+(Font)              using `TU/LinuxBiolinumT-TLF/m/n' instead on input line ....
+LaTeX Font Warning: Font shape `TU/LinuxBiolinumT-TLF/b/sc' undefined
+(Font)              using `TU/LinuxBiolinumT-TLF/b/n' instead on input line ....
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+\TU/LinuxBiolinumT-TLF/b/sc/10 Lorem ip-
+\hbox(6.83+1.93999)x63.33409, glue set 12.24875
+.\TU/LinuxBiolinumT-TLF/b/sc/10 Lorem
+.\glue 3.33 plus 1.665 minus 1.11
+.\TU/LinuxBiolinumT-TLF/b/sc/10 ip-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 24--30
-[]\T1/LinuxLibertineT-TLF/m/n/10 than pears!
-\hbox(6.87+2.36)x63.33409, glue set 6.00336
-.\hbox(0.0+0.0)x10.0
-.\T1/LinuxLibertineT-TLF/m/n/10 t
-.\T1/LinuxLibertineT-TLF/m/n/10 h
-.\T1/LinuxLibertineT-TLF/m/n/10 a
-.\T1/LinuxLibertineT-TLF/m/n/10 n
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 p
-.\kern0.06999
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\T1/LinuxLibertineT-TLF/m/n/10 a
-.\T1/LinuxLibertineT-TLF/m/n/10 r
-.\T1/LinuxLibertineT-TLF/m/n/10 s
-.\T1/LinuxLibertineT-TLF/m/n/10 !
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+\TU/LinuxBiolinumT-TLF/b/sc/10 amet, con-
+\hbox(6.15+1.92998)x63.33409, glue set 8.28069
+.\TU/LinuxBiolinumT-TLF/b/sc/10 amet,
+.\glue 3.33 plus 2.08124 minus 0.888
+.\TU/LinuxBiolinumT-TLF/b/sc/10 con-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 24--30
-\T1/LinuxLibertineT-TLF/m/n/10 Lorem ip-sum
-\hbox(6.56+2.36)x63.33409, glue set 7.59535
-.\T1/LinuxLibertineT-TLF/m/n/10 L
-.\T1/LinuxLibertineT-TLF/m/n/10 o
-.\T1/LinuxLibertineT-TLF/m/n/10 r
-.\kern-0.08002
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\T1/LinuxLibertineT-TLF/m/n/10 m
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 i
-.\T1/LinuxLibertineT-TLF/m/n/10 p
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 s
-.\T1/LinuxLibertineT-TLF/m/n/10 u
-.\T1/LinuxLibertineT-TLF/m/n/10 m
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+\TU/LinuxBiolinumT-TLF/b/sc/10 do eiusmod
+\hbox(6.94+0.10999)x63.33409, glue set 8.14063
+.\TU/LinuxBiolinumT-TLF/b/sc/10 do
+.\glue 3.33 plus 1.665 minus 1.11
+.\TU/LinuxBiolinumT-TLF/b/sc/10 eiusmod
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 24--30
-\T1/LinuxLibertineT-TLF/m/n/10 con-secte-tur
-\hbox(5.82498+0.11499)x63.33409
-.\T1/LinuxLibertineT-TLF/m/n/10 c
-.\T1/LinuxLibertineT-TLF/m/n/10 o
-.\T1/LinuxLibertineT-TLF/m/n/10 n
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 s
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\kern0.06999
-.\T1/LinuxLibertineT-TLF/m/n/10 c
-.\T1/LinuxLibertineT-TLF/m/n/10 t
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 t
-.\T1/LinuxLibertineT-TLF/m/n/10 u
-.\T1/LinuxLibertineT-TLF/m/n/10 r
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+\TU/LinuxBiolinumT-TLF/b/sc/10 tempor inci-
+\hbox(6.57+1.93999)x63.33409, glue set 5.8223
+.\TU/LinuxBiolinumT-TLF/b/sc/10 tempor
+.\glue 3.33 plus 1.665 minus 1.11
+.\TU/LinuxBiolinumT-TLF/b/sc/10 inci-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 24--30
-\T1/LinuxLibertineT-TLF/m/n/10 sed do eius-
-\hbox(6.87+0.11499)x63.33409, glue set 5.98569
-.\T1/LinuxLibertineT-TLF/m/n/10 s
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\kern0.06999
-.\T1/LinuxLibertineT-TLF/m/n/10 d
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 d
-.\T1/LinuxLibertineT-TLF/m/n/10 o
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\T1/LinuxLibertineT-TLF/m/n/10 i
-.\T1/LinuxLibertineT-TLF/m/n/10 u
-.\T1/LinuxLibertineT-TLF/m/n/10 s
-.\discretionary
-.\T1/LinuxLibertineT-TLF/m/n/10 -
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+\TU/LinuxBiolinumT-TLF/b/sc/10 magna ali-
+\hbox(6.94+2.05998)x63.33409, glue set 10.34483
+.\TU/LinuxBiolinumT-TLF/b/sc/10 magna
+.\glue 3.33 plus 1.665 minus 1.11
+.\TU/LinuxBiolinumT-TLF/b/sc/10 ali-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 24--30
-\T1/LinuxLibertineT-TLF/m/n/10 mod tem-por
-\hbox(6.87+2.36)x63.33409, glue set 10.57137
-.\T1/LinuxLibertineT-TLF/m/n/10 m
-.\T1/LinuxLibertineT-TLF/m/n/10 o
-.\kern0.06999
-.\T1/LinuxLibertineT-TLF/m/n/10 d
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 t
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\T1/LinuxLibertineT-TLF/m/n/10 m
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 p
-.\kern0.06999
-.\T1/LinuxLibertineT-TLF/m/n/10 o
-.\T1/LinuxLibertineT-TLF/m/n/10 r
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+\TU/LinuxBiolinumT-TLF/b/sc/10 niam, quis
+\hbox(6.57+1.93999)x63.33409, glue set 8.64586
+.\TU/LinuxBiolinumT-TLF/b/sc/10 niam,
+.\glue 3.33 plus 2.08124 minus 0.888
+.\TU/LinuxBiolinumT-TLF/b/sc/10 quis
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 24--30
-\T1/LinuxLibertineT-TLF/m/n/10 in-ci-didunt ut
-\hbox(6.87+0.11499)x63.33409, glue set 8.41934
-.\T1/LinuxLibertineT-TLF/m/n/10 i
-.\T1/LinuxLibertineT-TLF/m/n/10 n
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 c
-.\T1/LinuxLibertineT-TLF/m/n/10 i
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 d
-.\T1/LinuxLibertineT-TLF/m/n/10 i
-.\T1/LinuxLibertineT-TLF/m/n/10 d
-.\T1/LinuxLibertineT-TLF/m/n/10 u
-.\T1/LinuxLibertineT-TLF/m/n/10 n
-.\T1/LinuxLibertineT-TLF/m/n/10 t
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 u
-.\T1/LinuxLibertineT-TLF/m/n/10 t
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+\TU/LinuxBiolinumT-TLF/b/sc/10 nostrud ex-
+\hbox(6.94+0.10999)x63.33409, glue set 8.1226
+.\TU/LinuxBiolinumT-TLF/b/sc/10 nostrud
+.\glue 3.33 plus 1.665 minus 1.11
+.\TU/LinuxBiolinumT-TLF/b/sc/10 ex-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 24--30
-\T1/LinuxLibertineT-TLF/m/n/10 la-bore et do-
-\hbox(6.87+0.11499)x63.33409, glue set 4.73369
-.\T1/LinuxLibertineT-TLF/m/n/10 l
-.\T1/LinuxLibertineT-TLF/m/n/10 a
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 b
-.\kern0.09999
-.\T1/LinuxLibertineT-TLF/m/n/10 o
-.\T1/LinuxLibertineT-TLF/m/n/10 r
-.\kern-0.08002
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\T1/LinuxLibertineT-TLF/m/n/10 t
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 d
-.\T1/LinuxLibertineT-TLF/m/n/10 o
-.\discretionary
-.\T1/LinuxLibertineT-TLF/m/n/10 -
+Underfull \hbox (badness 6316) in paragraph at lines 23--29
+\TU/LinuxBiolinumT-TLF/b/sc/10 ercitation ul-
+\hbox(6.94+0.10999)x63.33409, glue set 3.98445
+.\TU/LinuxBiolinumT-TLF/b/sc/10 ercitation
+.\glue 3.33 plus 1.665 minus 1.11
+.\TU/LinuxBiolinumT-TLF/b/sc/10 ul-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 5175) in paragraph at lines 24--30
-\T1/LinuxLibertineT-TLF/m/n/10 ad minim ve-
-\hbox(6.87+0.11499)x63.33409, glue set 3.72968
-.\T1/LinuxLibertineT-TLF/m/n/10 a
-.\T1/LinuxLibertineT-TLF/m/n/10 d
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 m
-.\T1/LinuxLibertineT-TLF/m/n/10 i
-.\T1/LinuxLibertineT-TLF/m/n/10 n
-.\T1/LinuxLibertineT-TLF/m/n/10 i
-.\T1/LinuxLibertineT-TLF/m/n/10 m
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 v
-.\kern-0.08002
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\discretionary
-.\T1/LinuxLibertineT-TLF/m/n/10 -
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+\TU/LinuxBiolinumT-TLF/b/sc/10 ex ea com-
+\hbox(4.48+0.10999)x63.33409, glue set 4.92917
+.\TU/LinuxBiolinumT-TLF/b/sc/10 ex
+.\glue 3.33 plus 1.665 minus 1.11
+.\TU/LinuxBiolinumT-TLF/b/sc/10 ea
+.\glue 3.33 plus 1.665 minus 1.11
+.\TU/LinuxBiolinumT-TLF/b/sc/10 com-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 24--30
-\T1/LinuxLibertineT-TLF/m/n/10 trud ex-erci-ta-
-\hbox(6.87+0.11499)x63.33409, glue set 6.4594
-.\T1/LinuxLibertineT-TLF/m/n/10 t
-.\T1/LinuxLibertineT-TLF/m/n/10 r
-.\T1/LinuxLibertineT-TLF/m/n/10 u
-.\T1/LinuxLibertineT-TLF/m/n/10 d
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\kern-0.07
-.\T1/LinuxLibertineT-TLF/m/n/10 x
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\T1/LinuxLibertineT-TLF/m/n/10 r
-.\kern-0.08002
-.\T1/LinuxLibertineT-TLF/m/n/10 c
-.\T1/LinuxLibertineT-TLF/m/n/10 i
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 t
-.\T1/LinuxLibertineT-TLF/m/n/10 a
-.\discretionary
-.\T1/LinuxLibertineT-TLF/m/n/10 -
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+\TU/LinuxBiolinumT-TLF/b/sc/10 modo conse-
+\hbox(6.94+0.10999)x63.33409, glue set 5.47995
+.\TU/LinuxBiolinumT-TLF/b/sc/10 modo
+.\glue 3.33 plus 1.665 minus 1.11
+.\TU/LinuxBiolinumT-TLF/b/sc/10 conse-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 24--30
-\T1/LinuxLibertineT-TLF/m/n/10 tion ul-lamco
-\hbox(6.87+0.11499)x63.33409, glue set 9.69931
-.\T1/LinuxLibertineT-TLF/m/n/10 t
-.\T1/LinuxLibertineT-TLF/m/n/10 i
-.\T1/LinuxLibertineT-TLF/m/n/10 o
-.\T1/LinuxLibertineT-TLF/m/n/10 n
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 u
-.\T1/LinuxLibertineT-TLF/m/n/10 l
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 l
-.\T1/LinuxLibertineT-TLF/m/n/10 a
-.\T1/LinuxLibertineT-TLF/m/n/10 m
-.\T1/LinuxLibertineT-TLF/m/n/10 c
-.\T1/LinuxLibertineT-TLF/m/n/10 o
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+\TU/LinuxBiolinumT-TLF/b/sc/10 henderit in
+\hbox(6.94+0.10999)x63.33409, glue set 9.31781
+.\TU/LinuxBiolinumT-TLF/b/sc/10 henderit
+.\glue 3.33 plus 1.665 minus 1.11
+.\TU/LinuxBiolinumT-TLF/b/sc/10 in
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 24--30
-\T1/LinuxLibertineT-TLF/m/n/10 aliquip ex ea
-\hbox(6.87+2.36)x63.33409, glue set 4.73367
-.\T1/LinuxLibertineT-TLF/m/n/10 a
-.\T1/LinuxLibertineT-TLF/m/n/10 l
-.\T1/LinuxLibertineT-TLF/m/n/10 i
-.\T1/LinuxLibertineT-TLF/m/n/10 q
-.\T1/LinuxLibertineT-TLF/m/n/10 u
-.\T1/LinuxLibertineT-TLF/m/n/10 i
-.\T1/LinuxLibertineT-TLF/m/n/10 p
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\kern-0.07
-.\T1/LinuxLibertineT-TLF/m/n/10 x
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\T1/LinuxLibertineT-TLF/m/n/10 a
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+\TU/LinuxBiolinumT-TLF/b/sc/10 occaecat cu-
+\hbox(6.15+0.10999)x63.33409, glue set 5.85233
+.\TU/LinuxBiolinumT-TLF/b/sc/10 occaecat
+.\glue 3.33 plus 1.665 minus 1.11
+.\TU/LinuxBiolinumT-TLF/b/sc/10 cu-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 24--30
-\T1/LinuxLibertineT-TLF/m/n/10 in rep-re-hen-
-\hbox(6.87+2.36)x63.33409, glue set 10.11539
-.\T1/LinuxLibertineT-TLF/m/n/10 i
-.\T1/LinuxLibertineT-TLF/m/n/10 n
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 r
-.\kern-0.08002
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\T1/LinuxLibertineT-TLF/m/n/10 p
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 r
-.\kern-0.08002
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 h
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\T1/LinuxLibertineT-TLF/m/n/10 n
-.\discretionary
-.\T1/LinuxLibertineT-TLF/m/n/10 -
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+\TU/LinuxBiolinumT-TLF/b/sc/10 pidatat non
+\hbox(6.94+1.93999)x63.33409, glue set 7.32982
+.\TU/LinuxBiolinumT-TLF/b/sc/10 pidatat
+.\glue 3.33 plus 1.665 minus 1.11
+.\TU/LinuxBiolinumT-TLF/b/sc/10 non
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 24--30
-\T1/LinuxLibertineT-TLF/m/n/10 cil-lum do-lore
-\hbox(6.87+0.11499)x63.33409, glue set 7.57135
-.\T1/LinuxLibertineT-TLF/m/n/10 c
-.\T1/LinuxLibertineT-TLF/m/n/10 i
-.\T1/LinuxLibertineT-TLF/m/n/10 l
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 l
-.\T1/LinuxLibertineT-TLF/m/n/10 u
-.\T1/LinuxLibertineT-TLF/m/n/10 m
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 d
-.\T1/LinuxLibertineT-TLF/m/n/10 o
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 l
-.\T1/LinuxLibertineT-TLF/m/n/10 o
-.\T1/LinuxLibertineT-TLF/m/n/10 r
-.\kern-0.08002
-.\T1/LinuxLibertineT-TLF/m/n/10 e
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+\TU/LinuxBiolinumT-TLF/b/sc/10 officia de-
+\hbox(7.05+0.10999)x63.33409, glue set 12.6872
+.\TU/LinuxBiolinumT-TLF/b/sc/10 officia
+.\glue 3.33 plus 1.665 minus 1.11
+.\TU/LinuxBiolinumT-TLF/b/sc/10 de-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 24--30
-\T1/LinuxLibertineT-TLF/m/n/10 cep-teur sint
-\hbox(6.56+2.36)x63.33409, glue set 12.03535
-.\T1/LinuxLibertineT-TLF/m/n/10 c
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\T1/LinuxLibertineT-TLF/m/n/10 p
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 t
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\T1/LinuxLibertineT-TLF/m/n/10 u
-.\T1/LinuxLibertineT-TLF/m/n/10 r
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 s
-.\T1/LinuxLibertineT-TLF/m/n/10 i
-.\T1/LinuxLibertineT-TLF/m/n/10 n
-.\T1/LinuxLibertineT-TLF/m/n/10 t
+Underfull \hbox (badness 10000) in paragraph at lines 23--29
+\TU/LinuxBiolinumT-TLF/b/sc/10 serunt mollit
+\hbox(6.94+0.10999)x63.33409, glue set 4.45293
+.\TU/LinuxBiolinumT-TLF/b/sc/10 serunt
+.\glue 3.33 plus 1.665 minus 1.11
+.\TU/LinuxBiolinumT-TLF/b/sc/10 mollit
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 24--30
-\T1/LinuxLibertineT-TLF/m/n/10 oc-cae-cat cu-
-\hbox(5.82498+0.11499)x63.33409, glue set 10.45934
-.\T1/LinuxLibertineT-TLF/m/n/10 o
-.\kern0.06999
-.\T1/LinuxLibertineT-TLF/m/n/10 c
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 c
-.\T1/LinuxLibertineT-TLF/m/n/10 a
-.\discretionary replacing 2
-..\T1/LinuxLibertineT-TLF/m/n/10 e
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\kern0.06999
-.\T1/LinuxLibertineT-TLF/m/n/10 c
-.\T1/LinuxLibertineT-TLF/m/n/10 a
-.\T1/LinuxLibertineT-TLF/m/n/10 t
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 c
-.\T1/LinuxLibertineT-TLF/m/n/10 u
-.\discretionary
-.\T1/LinuxLibertineT-TLF/m/n/10 -
-.\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 24--30
-\T1/LinuxLibertineT-TLF/m/n/10 p-i-datat non
-\hbox(6.87+2.36)x63.33409, glue set 13.22734
-.\T1/LinuxLibertineT-TLF/m/n/10 p
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 i
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 d
-.\T1/LinuxLibertineT-TLF/m/n/10 a
-.\T1/LinuxLibertineT-TLF/m/n/10 t
-.\T1/LinuxLibertineT-TLF/m/n/10 a
-.\T1/LinuxLibertineT-TLF/m/n/10 t
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 n
-.\T1/LinuxLibertineT-TLF/m/n/10 o
-.\T1/LinuxLibertineT-TLF/m/n/10 n
-.\glue(\rightskip) 0.0
-Underfull \hbox (badness 6094) in paragraph at lines 24--30
-\T1/LinuxLibertineT-TLF/m/n/10 proident, sunt
-\hbox(6.87+2.36)x63.33409, glue set 3.9387
-.\T1/LinuxLibertineT-TLF/m/n/10 p
-.\T1/LinuxLibertineT-TLF/m/n/10 r
-.\kern-0.08002
-.\T1/LinuxLibertineT-TLF/m/n/10 o
-.\T1/LinuxLibertineT-TLF/m/n/10 i
-.\T1/LinuxLibertineT-TLF/m/n/10 d
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\T1/LinuxLibertineT-TLF/m/n/10 n
-.\T1/LinuxLibertineT-TLF/m/n/10 t
-.\T1/LinuxLibertineT-TLF/m/n/10 ,
-.\glue 2.5 plus 1.5625 minus 0.66638
-.\T1/LinuxLibertineT-TLF/m/n/10 s
-.\T1/LinuxLibertineT-TLF/m/n/10 u
-.\T1/LinuxLibertineT-TLF/m/n/10 n
-.\T1/LinuxLibertineT-TLF/m/n/10 t
-.\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 24--30
-\T1/LinuxLibertineT-TLF/m/n/10 fi-cia de-serunt
-\hbox(6.87+0.11499)x63.33409, glue set 6.53136
-.\T1/LinuxLibertineT-TLF/m/n/10 ^^[ (ligature fi)
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 c
-.\T1/LinuxLibertineT-TLF/m/n/10 i
-.\T1/LinuxLibertineT-TLF/m/n/10 a
-.\glue 2.5 plus 1.25 minus 0.833
-.\T1/LinuxLibertineT-TLF/m/n/10 d
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\discretionary
-..\T1/LinuxLibertineT-TLF/m/n/10 -
-.\T1/LinuxLibertineT-TLF/m/n/10 s
-.\T1/LinuxLibertineT-TLF/m/n/10 e
-.\T1/LinuxLibertineT-TLF/m/n/10 r
-.\T1/LinuxLibertineT-TLF/m/n/10 u
-.\T1/LinuxLibertineT-TLF/m/n/10 n
-.\T1/LinuxLibertineT-TLF/m/n/10 t
+Underfull \hbox (badness 8056) in paragraph at lines 23--29
+\TU/LinuxBiolinumT-TLF/b/sc/10 anim id est
+\hbox(6.94+0.10999)x63.33409, glue set 4.32257
+.\TU/LinuxBiolinumT-TLF/b/sc/10 anim
+.\glue 3.33 plus 1.665 minus 1.11
+.\TU/LinuxBiolinumT-TLF/b/sc/10 id
+.\glue 3.33 plus 1.665 minus 1.11
+.\TU/LinuxBiolinumT-TLF/b/sc/10 est
 .\glue(\rightskip) 0.0

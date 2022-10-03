@@ -1,8 +1,7 @@
 \input{regression-test.tex}
 \documentclass[twocolumn]{article}
-\usepackage[T1]{fontenc}
-\usepackage[tt=false,type1=true]{libertine}
 \usepackage{debate}
+\usepackage[tt=false,type1=true]{libertine}
 \usepackage{multicol}
 \usepackage[showframe]{geometry}
 \begin{document}
