@@ -1,0 +1,178 @@
+% \iffalse meta-comment
+% (The MIT License)
+%
+% Copyright (c) 2021-2022 Yegor Bugayenko
+%
+% Permission is hereby granted, free of charge, to any person obtaining a copy
+% of this software and associated documentation files (the 'Software'), to deal
+% in the Software without restriction, including without limitation the rights
+% to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+% copies of the Software, and to permit persons to whom the Software is
+% furnished to do so, subject to the following conditions:
+%
+% The above copyright notice and this permission notice shall be included in all
+% copies or substantial portions of the Software.
+%
+% THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+% IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+% FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+% AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+% LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+% OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+% SOFTWARE.
+% \fi
+
+% \CheckSum{0}
+%
+% \CharacterTable
+%  {Upper-case    \A\B\C\D\E\F\G\H\I\J\K\L\M\N\O\P\Q\R\S\T\U\V\W\X\Y\Z
+%   Lower-case    \a\b\c\d\e\f\g\h\i\j\k\l\m\n\o\p\q\r\s\t\u\v\w\x\y\z
+%   Digits        \0\1\2\3\4\5\6\7\8\9
+%   Exclamation   \!     Double quote  \"     Hash (number) \#
+%   Dollar        \$     Percent       \%     Ampersand     \&
+%   Acute accent  \'     Left paren    \(     Right paren   \)
+%   Asterisk      \*     Plus          \+     Comma         \,
+%   Minus         \-     Point         \.     Solidus       \/
+%   Colon         \:     Semicolon     \;     Less than     \<
+%   Equals        \=     Greater than  \>     Question mark \?
+%   Commercial at \@     Left bracket  \[     Backslash     \\
+%   Right bracket \]     Circumflex    \^     Underscore    \_
+%   Grave accent  \`     Left brace    \{     Vertical bar  \|
+%   Right brace   \}     Tilde         \~}
+
+% \GetFileInfo{debate.dtx}
+% \DoNotIndex{\endgroup,\begingroup,\let,\else,\fi,\newcommand,\newenvironment}
+
+% \iffalse
+%<*driver>
+\ProvidesFile{debate.dtx}
+%</driver>
+%<package>\NeedsTeXFormat{LaTeX2e}
+%<package>\ProvidesPackage{debate}
+%<*package>
+[00.00.0000 0.0.0 Debates Between Reviewers]
+%</package>
+%<*driver>
+\documentclass{ltxdoc}
+\usepackage[tt=false, type1=true]{libertine}
+\usepackage{multicol}
+\usepackage{debate}
+\usepackage{href-ul}
+\usepackage{xcolor}
+\usepackage{microtype}
+\PageIndex
+\EnableCrossrefs
+\CodelineIndex
+\RecordChanges
+\begin{document}
+	\DocInput{debate.dtx}
+	\PrintChanges
+	\PrintIndex
+\end{document}
+%</driver>
+% \fi
+
+% \title{|debate|: \LaTeX{} Package \\ for Debates Between Reviewers\thanks{The sources are in GitHub at \href{https://github.com/yegor256/debate}{yegor256/debate}}}
+% \author{Yegor Bugayenko \\ \texttt{yegor256@gmail.com}}
+% \date{\filedate, \fileversion}
+%
+% \maketitle
+%
+% \section{Introduction}
+%
+% This package helps you organize debates between a few people
+% right inside your documents:
+
+% \begin{multicols}{2}
+% \raggedcolumns
+%\iffalse
+%<*verb>
+%\fi
+\begin{verbatim}
+\documentclass{article}
+\usepackage[T1]{fontenc}
+\usepackage{debate}
+\begin{document}
+I think apples are tastier
+\debate[Jeff]{I don't think it's true!}
+\debate[Anna]{It is indeed true!}
+than pears!
+
+And I don't want to argue with me.
+\end{document}
+\end{verbatim}
+%\iffalse
+%</verb>
+%\fi
+%
+% \columnbreak
+%
+% I think apples are tastier
+% \debate[Jeff]{I don't think it's true!}
+% \debate[Anna]{It is indeed true!}
+% than pears!
+%
+% And I don't want to argue with me.
+% \end{multicols}
+
+% \textbf{NB!}
+% If you want to use |tcolorbox| package, make sure you include
+% |debate| first.
+
+% \section{Package Options}
+
+% \begin{macro}{hide}
+% You can hide them all using |hide| package option.
+% \end{macro}
+
+% \StopEventually{}
+
+% \section{Implementation}
+
+% \changes{v0.1.0}{2021/09/26}{Initial version}
+
+% First, we include a few packages:
+%    \begin{macrocode}
+\RequirePackage{xcolor}
+\PassOptionsToPackage{most}{tcolorbox}
+\RequirePackage{tcolorbox}
+%    \end{macrocode}
+
+% Then, we parse package options:
+%    \begin{macrocode}
+\RequirePackage{xkeyval}
+\makeatletter
+\newif\ifdebate@hide
+\DeclareOptionX{hide}{\debate@hidetrue}
+\ProcessOptionsX\relax
+\makeatother
+%    \end{macrocode}
+
+% \begin{macro}{\debate}
+% Finally, we define |\debate| command:
+%    \begin{macrocode}
+\makeatletter\newcommand\debate[2][Reviewer]{%
+  \ifdebate@hide%
+    #1%
+  \else%
+    {%
+      \begin{tcolorbox}[frame hidden,sharp corners,enhanced,borderline west={1pt}{0pt}{red},interior hidden,boxsep=0pt,left=0pt,right=0pt,top=0pt,bottom=0pt,beforeafter skip balanced=0pt]
+        \sffamily\color{gray}%
+        \raggedright%
+        \addtolength\leftskip{18pt}\setlength\parskip{0pt}\setlength\parindent{0pt}%
+        \textcolor{red}{\bfseries\scshape #1}: #2
+      \end{tcolorbox}
+      \vspace{-\parskip}
+    }%
+  \fi%
+}\makeatother
+%    \end{macrocode}
+% \end{macro}
+
+% \Finale
+
+%\clearpage
+%
+%\PrintChanges
+%\clearpage
+%\PrintIndex
