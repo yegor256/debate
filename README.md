@@ -20,9 +20,6 @@ than pears!
 \end{document}
 ```
 
-The full example and all commands are available in the 
-[`debate.tex`](https://github.com/yegor256/debate/blob/master/debate.tex) file.
-
 If you want to contribute yourself, make a fork, then create a branch, 
 then run `make` in the root directory.
 It should compile everything without errors. If not, submit an issue and wait.
