@@ -21,7 +21,7 @@ uploadconfig = {
   summary = "Insert notes in the form of dialogues",
   repository = "https://github.com/yegor256/debate",
   support = "",
-  topic = {"fixmetodonotes"}
+  topic = {"notes"}
 }
 
 function update_tag(file, content, tagname, tagdate)
