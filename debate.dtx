@@ -55,11 +55,11 @@
 %<*driver>
 \documentclass{ltxdoc}
 \usepackage[tt=false, type1=true]{libertine}
-\usepackage{multicol}
 \usepackage{debate}
 \usepackage{href-ul}
-\usepackage{xcolor}
+\usepackage[dtx]{docshots}
 \usepackage{microtype}
+\AddToHook{env/verbatim/begin}{\microtypesetup{protrusion=false}}
 \PageIndex
 \EnableCrossrefs
 \CodelineIndex
@@ -78,46 +78,29 @@
 %
 % \maketitle
 %
+% \textbf{NB!}
+% If you want to use |tcolorbox| package, make sure you include
+% |debate| first.
+
 % \section{Introduction}
 %
 % This package helps you organize debates between a few people
 % right inside your documents:
 
-% \begin{multicols}{2}
-% \raggedcolumns
-%\iffalse
-%<*verb>
-%\fi
-\begin{verbatim}
-\documentclass{article}
-\usepackage[T1]{fontenc}
-\usepackage{debate}
-\begin{document}
-I think apples are tastier
-\debate[Jeff]{I don't think it's true!}
-\debate[Anna]{It is indeed true!}
-than pears!
-
-And I don't want to argue with me.
-\end{document}
-\end{verbatim}
-%\iffalse
-%</verb>
-%\fi
-%
-% \columnbreak
-%
-% I think apples are tastier
-% \debate[Jeff]{I don't think it's true!}
-% \debate[Anna]{It is indeed true!}
-% than pears!
-%
-% And I don't want to argue with me.
-% \end{multicols}
-
-% \textbf{NB!}
-% If you want to use |tcolorbox| package, make sure you include
-% |debate| first.
+% \begin{docshot}
+% \documentclass{article}
+% \usepackage{debate}
+% \usepackage[paperwidth=3in]{geometry}
+% \pagestyle{empty}
+% \begin{document}\noindent
+% Never argue with stupid people,
+% \debate[Jeff]{I disagree!}
+% \debate[Anna]{I won't argue...}
+% they will drag you down to their
+% level and then beat you with
+% experience -- \emph{Mark Twain}
+% \end{document}
+% \end{docshot}
 
 % \section{Package Options}
 
@@ -156,13 +139,18 @@ And I don't want to argue with me.
     #1%
   \else%
     {%
-      \begin{tcolorbox}[frame hidden,sharp corners,enhanced,borderline west={1pt}{0pt}{red},interior hidden,boxsep=0pt,left=0pt,right=0pt,top=0pt,bottom=0pt,beforeafter skip balanced=0pt]
+      \begin{tcolorbox}[frame hidden,sharp corners,
+        enhanced,borderline west={1pt}{0pt}{red},
+        interior hidden,boxsep=0pt,left=0pt,right=0pt,
+        top=0pt,bottom=0pt,beforeafter skip balanced=0pt]
         \sffamily\color{gray}%
         \raggedright%
-        \addtolength\leftskip{18pt}\setlength\parskip{0pt}\setlength\parindent{0pt}%
+        \addtolength\leftskip{18pt}%
+        \setlength\parskip{0pt}%
+        \setlength\parindent{0pt}%
         \textcolor{red}{\bfseries\scshape #1}: #2
-      \end{tcolorbox}
-      \vspace{-\parskip}
+      \end{tcolorbox}%
+      \vspace{-\parskip}%
     }%
   \fi%
 }\makeatother
