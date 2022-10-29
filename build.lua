@@ -6,7 +6,7 @@ tagfiles = {"build.lua", "debate.dtx"}
 
 uploadconfig = {
   pkg = "debate",
-  version = "0.0.0",
+  version = "0.2.1",
   author = "Yegor Bugayenko",
   uploader = "Yegor Bugayenko",
   email = "yegor256@gmail.com",
