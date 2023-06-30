@@ -23,7 +23,7 @@ than pears!
 Otherwise, you can download [`debate.sty`](https://raw.githubusercontent.com/yegor256/debate/gh-pages/debate/debate.sty) and add to your project.
 
 If you want to contribute yourself, make a fork, then create a branch, 
-then run `make` in the root directory.
+then run `l3build` in the root directory.
 It should compile everything without errors. If not, submit an issue and wait.
-Otherwise, make your changes and then run `make` again. If the build is
+Otherwise, make your changes and then run `l3build` again. If the build is
 still clean, submit a pull request.
