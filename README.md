@@ -20,7 +20,7 @@ than pears!
 \end{document}
 ```
 
-Otherwise, you can download [`eolang.sty`](https://raw.githubusercontent.com/yegor256/debate/gh-pages/debate/debate.sty) and add to your project.
+Otherwise, you can download [`debate.sty`](https://raw.githubusercontent.com/yegor256/debate/gh-pages/debate/debate.sty) and add to your project.
 
 If you want to contribute yourself, make a fork, then create a branch, 
 then run `make` in the root directory.
