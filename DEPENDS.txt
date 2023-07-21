@@ -6,3 +6,5 @@ soft debate
 soft href-ul
 soft docshots
 soft microtype
+soft multicols
+soft geometry
