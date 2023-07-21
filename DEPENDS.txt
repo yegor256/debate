@@ -1,3 +1,8 @@
 hard xkeyval
 hard xcolor
 hard tcolorbox
+soft libertine
+soft debate
+soft href-ul
+soft docshots
+soft microtype
