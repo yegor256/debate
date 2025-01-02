@@ -28,4 +28,4 @@ It should compile everything without errors. If not, submit an issue and wait.
 Otherwise, make your changes and then run `l3build` again. If the build is
 still clean, submit a pull request.
 
-Copyright (c) 2021-2024 Yegor Bugayenko, MIT License
+Copyright (c) 2021-2025 Yegor Bugayenko, MIT License
