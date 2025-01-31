@@ -6,7 +6,7 @@ This LaTeX package helps you organize debates between a few reviewers
 right inside the text of your document.
 
 First, [install it](https://en.wikibooks.org/wiki/LaTeX/Installing_Extra_Packages)
-from [CTAN](https://ctan.org/pkg/debate) 
+from [CTAN](https://ctan.org/pkg/debate)
 and then use in the preamble:
 
 ```tex
@@ -22,7 +22,7 @@ than pears!
 
 Otherwise, you can download [`debate.sty`](https://raw.githubusercontent.com/yegor256/debate/gh-pages/debate/debate.sty) and add to your project.
 
-If you want to contribute yourself, make a fork, then create a branch, 
+If you want to contribute yourself, make a fork, then create a branch,
 then run `l3build` in the root directory.
 It should compile everything without errors. If not, submit an issue and wait.
 Otherwise, make your changes and then run `l3build` again. If the build is
