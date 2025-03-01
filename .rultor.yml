@@ -3,7 +3,7 @@
 ---
 # yamllint disable rule:line-length
 docker:
-  image: yegor256/rultor-latex
+  image: yegor256/latex
 install: |-
   sudo apt-get -y update
   sudo apt-get install --yes inkscape
