@@ -7,7 +7,7 @@ docker:
 install: |-
   sudo apt-get -y update
   sudo apt-get install --yes inkscape
-  sudo update-depends.sh "$(pwd)/DEPENDS.txt"
+  sudo /usr/bin/update-depends.sh "$(pwd)/DEPENDS.txt"
 merge:
   script: |-
     l3build check
