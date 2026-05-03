@@ -7,20 +7,20 @@ right inside the text of your document.
 
 First, [install it](https://en.wikibooks.org/wiki/LaTeX/Installing_Extra_Packages)
 from [CTAN](https://ctan.org/pkg/debate)
-and then use in the preamble:
+and then use it in the preamble:
 
 ```tex
 \documentclass{article}
 \usepackage{debate}
 \begin{document}
 I think apples are tastier
-  \debate[jeff]{I don't think it's true!}
-  \debate[anna]{It is indeed true!}
+  \debate[Jeff]{I don't think it's true!}
+  \debate[Anna]{It is indeed true!}
 than pears!
 \end{document}
 ```
 
-Otherwise, you can download [`debate.sty`](https://raw.githubusercontent.com/yegor256/debate/gh-pages/debate/debate.sty) and add to your project.
+Otherwise, you can download [`debate.sty`](https://raw.githubusercontent.com/yegor256/debate/gh-pages/debate/debate.sty) and add it to your project.
 
 If you want to contribute yourself, make a fork, then create a branch,
 then run `l3build` in the root directory.

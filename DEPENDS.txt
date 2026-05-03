@@ -4,7 +4,6 @@ hard xkeyval
 soft catchfile
 soft debate
 soft docshots
-soft docshots
 soft environ
 soft ffcode
 soft framed
