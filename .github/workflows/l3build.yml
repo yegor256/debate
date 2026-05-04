@@ -27,7 +27,7 @@ jobs:
           package_file: .texlive-packages.txt
           texlive_version: 2025
       - run: l3build ctan --show-log-on-error --halt-on-error
-      - uses: JamesIves/github-pages-deploy-action@v4.7.3
+      - uses: JamesIves/github-pages-deploy-action@v4.8.0
         with:
           branch: gh-pages
           folder: build/distrib/tds/tex/latex
