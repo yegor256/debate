@@ -12,7 +12,7 @@ soft geometry
 soft href-ul
 soft hypdoc
 soft l3build
-soft lmodern
+soft lm
 soft listings
 soft listingsutf8
 soft makeindex
