@@ -27,6 +27,11 @@ jobs:
           package_file: .texlive-packages.txt
           texlive_version: 2025
       - run: l3build ctan --show-log-on-error --halt-on-error
+      - if: failure()
+        run: |
+          echo '::group::debate.log'
+          cat build/doc/debate.log 2>/dev/null || echo 'no build/doc/debate.log'
+          echo '::endgroup::'
       - uses: JamesIves/github-pages-deploy-action@v4.7.3
         with:
           branch: gh-pages
