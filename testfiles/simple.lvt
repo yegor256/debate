@@ -4,7 +4,6 @@
 \input{regression-test.tex}
 \documentclass[twocolumn]{article}
 \usepackage{debate}
-\usepackage{paratype}
 \usepackage{multicol}
 \usepackage[showframe]{geometry}
 \begin{document}
