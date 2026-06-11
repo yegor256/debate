@@ -32,7 +32,7 @@ jobs:
           echo '::group::debate.log'
           cat build/doc/debate.log 2>/dev/null || echo 'no build/doc/debate.log'
           echo '::endgroup::'
-      - uses: JamesIves/github-pages-deploy-action@v4.7.3
+      - uses: JamesIves/github-pages-deploy-action@v4.8.0
         with:
           branch: gh-pages
           folder: build/distrib/tds/tex/latex
