@@ -1,10 +1,12 @@
 hard tcolorbox
 hard xcolor
 hard xkeyval
+soft bookmark
 soft catchfile
 soft debate
 soft docshots
 soft environ
+soft fail-fast
 soft ffcode
 soft framed
 soft fvextra
