@@ -1,0 +1,6 @@
+# SPDX-FileCopyrightText: Copyright (c) 2021-2026 Yegor Bugayenko
+# SPDX-License-Identifier: MIT
+
+# Skip generated l3build baselines from spell checking.
+[files]
+extend-exclude = ["*.tlg"]

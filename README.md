@@ -1,3 +1,5 @@
+# Notes in the Form of Dialogues
+
 [![make](https://github.com/yegor256/debate/actions/workflows/l3build.yml/badge.svg)](https://github.com/yegor256/debate/actions/workflows/l3build.yml)
 [![CTAN](https://img.shields.io/ctan/v/debate)](https://ctan.org/pkg/debate)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](https://github.com/yegor256/debate/blob/master/LICENSE.txt)
@@ -20,7 +22,9 @@ than pears!
 \end{document}
 ```
 
-Otherwise, you can download [`debate.sty`](https://raw.githubusercontent.com/yegor256/debate/gh-pages/debate/debate.sty) and add it to your project.
+Otherwise, you can download
+[`debate.sty`](https://raw.githubusercontent.com/yegor256/debate/gh-pages/debate/debate.sty)
+and add it to your project.
 
 If you want to contribute yourself, make a fork, then create a branch,
 then run `l3build` in the root directory.
