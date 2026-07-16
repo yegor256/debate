@@ -1,126 +1,120 @@
 This is a generated file for the l3build validation system.
 Don't change this file in any respect.
-LaTeX Font Info:    Trying to load font information for TU+LinuxBiolinumT-TLF on input line ....
-LaTeX Font Info:    No file TULinuxBiolinumT-TLF.fd. on input line ....
-LaTeX Font Warning: Font shape `TU/LinuxBiolinumT-TLF/m/n' undefined
-(Font)              using `TU/lmr/m/n' instead on input line ....
-LaTeX Font Warning: Font shape `TU/LinuxBiolinumT-TLF/b/n' undefined
-(Font)              using `TU/LinuxBiolinumT-TLF/m/n' instead on input line ....
-LaTeX Font Warning: Font shape `TU/LinuxBiolinumT-TLF/b/sc' undefined
-(Font)              using `TU/LinuxBiolinumT-TLF/b/n' instead on input line ....
-Underfull \hbox (badness 10000) in paragraph at lines 23--29
-\TU/LinuxBiolinumT-TLF/b/sc/10 Lorem ip-
+LaTeX Font Warning: Font shape `TU/lmss/bx/sc' undefined
+(Font)              using `TU/lmss/bx/n' instead on input line ....
+Underfull \hbox (badness 10000) in paragraph at lines ...
+\TU/lmr/m/n/10 Lorem ip-
 \hbox(6.83+1.93999)x63.33409, glue set 12.24875
-.\TU/LinuxBiolinumT-TLF/b/sc/10 Lorem
+.\TU/lmr/m/n/10 Lorem
 .\glue 3.33 plus 1.665 minus 1.11
-.\TU/LinuxBiolinumT-TLF/b/sc/10 ip-
+.\TU/lmr/m/n/10 ip-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 23--29
-\TU/LinuxBiolinumT-TLF/b/sc/10 amet, con-
+Underfull \hbox (badness 10000) in paragraph at lines ...
+\TU/lmr/m/n/10 amet, con-
 \hbox(6.15+1.92998)x63.33409, glue set 8.28069
-.\TU/LinuxBiolinumT-TLF/b/sc/10 amet,
+.\TU/lmr/m/n/10 amet,
 .\glue 3.33 plus 2.08124 minus 0.888
-.\TU/LinuxBiolinumT-TLF/b/sc/10 con-
+.\TU/lmr/m/n/10 con-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 23--29
-\TU/LinuxBiolinumT-TLF/b/sc/10 do eiusmod
+Underfull \hbox (badness 10000) in paragraph at lines ...
+\TU/lmr/m/n/10 do eiusmod
 \hbox(6.94+0.10999)x63.33409, glue set 8.14063
-.\TU/LinuxBiolinumT-TLF/b/sc/10 do
+.\TU/lmr/m/n/10 do
 .\glue 3.33 plus 1.665 minus 1.11
-.\TU/LinuxBiolinumT-TLF/b/sc/10 eiusmod
+.\TU/lmr/m/n/10 eiusmod
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 23--29
-\TU/LinuxBiolinumT-TLF/b/sc/10 tempor inci-
+Underfull \hbox (badness 10000) in paragraph at lines ...
+\TU/lmr/m/n/10 tempor inci-
 \hbox(6.57+1.93999)x63.33409, glue set 5.8223
-.\TU/LinuxBiolinumT-TLF/b/sc/10 tempor
+.\TU/lmr/m/n/10 tempor
 .\glue 3.33 plus 1.665 minus 1.11
-.\TU/LinuxBiolinumT-TLF/b/sc/10 inci-
+.\TU/lmr/m/n/10 inci-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 23--29
-\TU/LinuxBiolinumT-TLF/b/sc/10 magna ali-
+Underfull \hbox (badness 10000) in paragraph at lines ...
+\TU/lmr/m/n/10 magna ali-
 \hbox(6.94+2.05998)x63.33409, glue set 10.34483
-.\TU/LinuxBiolinumT-TLF/b/sc/10 magna
+.\TU/lmr/m/n/10 magna
 .\glue 3.33 plus 1.665 minus 1.11
-.\TU/LinuxBiolinumT-TLF/b/sc/10 ali-
+.\TU/lmr/m/n/10 ali-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 23--29
-\TU/LinuxBiolinumT-TLF/b/sc/10 niam, quis
+Underfull \hbox (badness 10000) in paragraph at lines ...
+\TU/lmr/m/n/10 niam, quis
 \hbox(6.57+1.93999)x63.33409, glue set 8.64586
-.\TU/LinuxBiolinumT-TLF/b/sc/10 niam,
+.\TU/lmr/m/n/10 niam,
 .\glue 3.33 plus 2.08124 minus 0.888
-.\TU/LinuxBiolinumT-TLF/b/sc/10 quis
+.\TU/lmr/m/n/10 quis
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 23--29
-\TU/LinuxBiolinumT-TLF/b/sc/10 nostrud ex-
+Underfull \hbox (badness 10000) in paragraph at lines ...
+\TU/lmr/m/n/10 nostrud ex-
 \hbox(6.94+0.10999)x63.33409, glue set 8.1226
-.\TU/LinuxBiolinumT-TLF/b/sc/10 nostrud
+.\TU/lmr/m/n/10 nostrud
 .\glue 3.33 plus 1.665 minus 1.11
-.\TU/LinuxBiolinumT-TLF/b/sc/10 ex-
+.\TU/lmr/m/n/10 ex-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 6316) in paragraph at lines 23--29
-\TU/LinuxBiolinumT-TLF/b/sc/10 ercitation ul-
+Underfull \hbox (badness 6316) in paragraph at lines ...
+\TU/lmr/m/n/10 ercitation ul-
 \hbox(6.94+0.10999)x63.33409, glue set 3.98445
-.\TU/LinuxBiolinumT-TLF/b/sc/10 ercitation
+.\TU/lmr/m/n/10 ercitation
 .\glue 3.33 plus 1.665 minus 1.11
-.\TU/LinuxBiolinumT-TLF/b/sc/10 ul-
+.\TU/lmr/m/n/10 ul-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 23--29
-\TU/LinuxBiolinumT-TLF/b/sc/10 ex ea com-
+Underfull \hbox (badness 10000) in paragraph at lines ...
+\TU/lmr/m/n/10 ex ea com-
 \hbox(4.48+0.10999)x63.33409, glue set 4.92917
-.\TU/LinuxBiolinumT-TLF/b/sc/10 ex
+.\TU/lmr/m/n/10 ex
 .\glue 3.33 plus 1.665 minus 1.11
-.\TU/LinuxBiolinumT-TLF/b/sc/10 ea
+.\TU/lmr/m/n/10 ea
 .\glue 3.33 plus 1.665 minus 1.11
-.\TU/LinuxBiolinumT-TLF/b/sc/10 com-
+.\TU/lmr/m/n/10 com-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 23--29
-\TU/LinuxBiolinumT-TLF/b/sc/10 modo conse-
+Underfull \hbox (badness 10000) in paragraph at lines ...
+\TU/lmr/m/n/10 modo conse-
 \hbox(6.94+0.10999)x63.33409, glue set 5.47995
-.\TU/LinuxBiolinumT-TLF/b/sc/10 modo
+.\TU/lmr/m/n/10 modo
 .\glue 3.33 plus 1.665 minus 1.11
-.\TU/LinuxBiolinumT-TLF/b/sc/10 conse-
+.\TU/lmr/m/n/10 conse-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 23--29
-\TU/LinuxBiolinumT-TLF/b/sc/10 henderit in
+Underfull \hbox (badness 10000) in paragraph at lines ...
+\TU/lmr/m/n/10 henderit in
 \hbox(6.94+0.10999)x63.33409, glue set 9.31781
-.\TU/LinuxBiolinumT-TLF/b/sc/10 henderit
+.\TU/lmr/m/n/10 henderit
 .\glue 3.33 plus 1.665 minus 1.11
-.\TU/LinuxBiolinumT-TLF/b/sc/10 in
+.\TU/lmr/m/n/10 in
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 23--29
-\TU/LinuxBiolinumT-TLF/b/sc/10 occaecat cu-
+Underfull \hbox (badness 10000) in paragraph at lines ...
+\TU/lmr/m/n/10 occaecat cu-
 \hbox(6.15+0.10999)x63.33409, glue set 5.85233
-.\TU/LinuxBiolinumT-TLF/b/sc/10 occaecat
+.\TU/lmr/m/n/10 occaecat
 .\glue 3.33 plus 1.665 minus 1.11
-.\TU/LinuxBiolinumT-TLF/b/sc/10 cu-
+.\TU/lmr/m/n/10 cu-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 23--29
-\TU/LinuxBiolinumT-TLF/b/sc/10 pidatat non
+Underfull \hbox (badness 10000) in paragraph at lines ...
+\TU/lmr/m/n/10 pidatat non
 \hbox(6.94+1.93999)x63.33409, glue set 7.32982
-.\TU/LinuxBiolinumT-TLF/b/sc/10 pidatat
+.\TU/lmr/m/n/10 pidatat
 .\glue 3.33 plus 1.665 minus 1.11
-.\TU/LinuxBiolinumT-TLF/b/sc/10 non
+.\TU/lmr/m/n/10 non
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 23--29
-\TU/LinuxBiolinumT-TLF/b/sc/10 officia de-
+Underfull \hbox (badness 10000) in paragraph at lines ...
+\TU/lmr/m/n/10 officia de-
 \hbox(7.05+0.10999)x63.33409, glue set 12.6872
-.\TU/LinuxBiolinumT-TLF/b/sc/10 officia
+.\TU/lmr/m/n/10 officia
 .\glue 3.33 plus 1.665 minus 1.11
-.\TU/LinuxBiolinumT-TLF/b/sc/10 de-
+.\TU/lmr/m/n/10 de-
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 10000) in paragraph at lines 23--29
-\TU/LinuxBiolinumT-TLF/b/sc/10 serunt mollit
+Underfull \hbox (badness 10000) in paragraph at lines ...
+\TU/lmr/m/n/10 serunt mollit
 \hbox(6.94+0.10999)x63.33409, glue set 4.45293
-.\TU/LinuxBiolinumT-TLF/b/sc/10 serunt
+.\TU/lmr/m/n/10 serunt
 .\glue 3.33 plus 1.665 minus 1.11
-.\TU/LinuxBiolinumT-TLF/b/sc/10 mollit
+.\TU/lmr/m/n/10 mollit
 .\glue(\rightskip) 0.0
-Underfull \hbox (badness 8056) in paragraph at lines 23--29
-\TU/LinuxBiolinumT-TLF/b/sc/10 anim id est
+Underfull \hbox (badness 8056) in paragraph at lines ...
+\TU/lmr/m/n/10 anim id est
 \hbox(6.94+0.10999)x63.33409, glue set 4.32257
-.\TU/LinuxBiolinumT-TLF/b/sc/10 anim
+.\TU/lmr/m/n/10 anim
 .\glue 3.33 plus 1.665 minus 1.11
-.\TU/LinuxBiolinumT-TLF/b/sc/10 id
+.\TU/lmr/m/n/10 id
 .\glue 3.33 plus 1.665 minus 1.11
-.\TU/LinuxBiolinumT-TLF/b/sc/10 est
+.\TU/lmr/m/n/10 est
 .\glue(\rightskip) 0.0
